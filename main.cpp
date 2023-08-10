@@ -9,7 +9,7 @@ void calc(long long num){
 		}
 		cout<<endl; 
         return;
-    }*/
+    }*/  
     if(num<=10){
         cout<<m[num]<<endl;
         return;
