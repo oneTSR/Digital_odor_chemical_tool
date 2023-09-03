@@ -1,7 +1,9 @@
 # 数⚡字⚡恶⚡臭⚡化⚡工⚡具
 还有~~一些~~亿些 $bug$。
+
 ~~先发到洛谷让谷民们尝尝鲜。~~ 现已发到 Github
-更新请关注[这里](https://xuanchengmao.wordpress.com/)，博客不再更新。
+
+更新请关注[这里](https://xuanchengmao.wordpress.com/)，GitHub 不再更新。
 ---
 #### Download.
 [Github](https://github.com/oneTSR/Digital_odor_chemical_tool/releases/tag/tmp)
