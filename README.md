@@ -3,7 +3,7 @@
 
 ~~先发到洛谷让谷民们尝尝鲜。~~ 现已发到 Github
 
-~~更新请关注[这里](https://xuanchengmao.wordpress.com/)~~，目前不再更新。旧站已经删除,已经开始准备[新站](https://xuansister.wordpress.com).
+~~更新请关注[这里](https://xuanchengmao.wordpress.com/)~~，目前不再更新。旧站已经删除,目前正在思考一个新的简单快速的解决方案,但这需要一些时间.
 ---
 #### Download.
 [Github](https://github.com/oneTSR/Digital_odor_chemical_tool/releases/tag/tmp)
